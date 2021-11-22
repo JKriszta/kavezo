@@ -1,6 +1,6 @@
 # kavezo
 
-Mintaoldal: [Minta](https://kepzes2021.github.io/index.html)
+Mintaoldal: [Minta](https://kepzes2021.github.io/index.html) <br />
 Az oldal fotóinak, ikonjainak forrása:
 
 * [Pexel](https://www.pexels.com/)
